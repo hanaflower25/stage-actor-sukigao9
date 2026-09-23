@@ -219,7 +219,7 @@ const actors = [
   },  {
     id: "",
     name: "山崎大輝",
-    image: "yamasaki-taiki.jpg"
+    image: "yamazaki-taiki.jpg"
   },  {
     id: "",
     name: "猪野広樹",
