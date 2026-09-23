@@ -2,7 +2,7 @@ const actors = [
   {
     id: "yokota-ryugi",
     name: "横田龍儀",
-    image: ""
+    image: "yokota-ryugi.jpeg"
   },  
   {
     id: "",
