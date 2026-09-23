@@ -183,7 +183,7 @@ const actors = [
   },  {
     id: "",
     name: "井澤巧麻",
-    image: "izawa-takuma.jpg"
+    image: "isawa-takuma.jpg"
   },  {
     id: "",
     name: "中西智也",
