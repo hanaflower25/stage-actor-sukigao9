@@ -279,7 +279,7 @@ const actors = [
   },  {
     id: "",
     name: "有澤樟太郎",
-    image: "arisawa-syotarou.jpg"
+    image: "arisawa-shotarou.jpg"
   },  {
     id: "",
     name: "阪本奨悟",
@@ -482,6 +482,21 @@ const actors = [
     name: "林光哲",
     image: "hayashi-mitsuaki.jpg"
   }, {
+    id: "konishi-seiya",
+    name: "小西成弥",
+    image: "konishi-seiya.jpg"
+  }, 
+ {
+    id: "takemoto-yusuke",
+    name: "武本悠佑",
+    image: "takemoto-yusuke.jpg"
+  }, 
+{
+    id: "",
+    name: "",
+    image: ""
+  }, 
+{
     id: "",
     name: "",
     image: ""
