@@ -317,7 +317,7 @@ const actors = [
     name: "高野洸",
     image: "takano-akira.jpg"
   },  {
-    id: "",
+    id: "tamura-shin",
     name: "田村心",
     image: "tamura-shin.jpg"
   },  {
@@ -325,27 +325,27 @@ const actors = [
     name: "丘山晴己",
     image: "kiyama-haruki.jpg"
   },  {
-    id: "",
+    id: "nakada-hiroki",
     name: "仲田博喜",
     image: "nakada-hiroki.jpg"
   },  {
-    id: "",
+    id: "okamiya-kurumu",
     name: "岡宮来夢",
     image: "okamiya-kurumu.jpg"
   },  {
-    id: "",
+    id: "shiota-ichigo",
     name: "塩田一期",
     image: "shiota-ichigo.jpg"
   },  {
-    id: "",
+    id: "fukuzawa-yu",
     name: "福澤侑",
     image: "fukuzawa-yu.jpg"
   },  {
-    id: "",
+    id: "sana-hiroki",
     name: "佐奈宏紀",
     image: "sana-hiroki.jpg"
   },  {
-    id: "",
+    id: "ootomo-shion",
     name: "大友至恩",
     image: "ootomo-shion.jpg"
   },  {
@@ -385,7 +385,7 @@ const actors = [
     name: "梅津瑞樹",
     image: "umetsu-mizuki.jpg"
   },  {
-    id: "",
+    id: "nagata-seiichiro",
     name: "永田聖一朗",
     image: "nagata-seiichiro.jpg"
   },  {
@@ -394,87 +394,87 @@ const actors = [
     image: "taduru-shogo.jpg"
   },
    {
-    id: "",
+    id: "nagata-kohei",
     name: "長田光平",
     image: "nagata-kohei.jpg"
   }, {
-    id: "",
+    id: "yamazaki-shogo",
     name: "山﨑晶吾",
     image: "yamazaki-shogo.jpg"
   }, {
-    id: "",
+    id: "tamura-shogo",
     name: "田村升吾",
     image: "tamura-shogo.jpg"
   }, {
-    id: "",
+    id: "fukui-tomoya",
     name: "福井巴也",
     image: "fukui-tomoya.jpg"
   }, {
-    id: "",
+    id: "sasamori-hiroki",
     name: "笹森裕貴",
     image: "sasamori-hiroki.jpg"
   }, {
-    id: "",
+    id: "itokawa-yojiro",
     name: "糸川耀士郎",
     image: "itokawa-yojiro,jpg"
   }, {
-    id: "",
+    id: "ishibashi-hiroki.jpg",
     name: "石橋弘毅",
     image: "ishibashi-hiroki.jpg"
   }, {
-    id: "",
+    id: "tachibana-yuta",
     name: "立花裕大",
     image: "tachibana-yuta.jpg"
   }, {
-    id: "",
+    id: "raita",
     name: "雷太",
     image: "raita.jpg"
   }, {
-    id: "",
+    id: "nakao-masaki",
     name: "中尾暢樹",
     image: "nakao-masaki.jpg"
   }, {
-    id: "",
+    id: "konishi-seiya",
     name: "小西成弥",
     image: "konishi-seiya.jpg"
   }, {
-    id: "",
+    id: "satou-nobunaga",
     name: "佐藤信長",
     image: "satou-nobunaga.jpg"
   }, {
-    id: "",
+    id: "matsushima-yunosuke",
     name: "松島勇之介",
     image: "matsushima-yunosuke.jpg"
   }, {
-    id: "",
+    id: "katou-daigo",
     name: "加藤大悟",
     image: "katou-daigo.jpg"
   }, {
-    id: "",
+    id: "sakurai-hajime",
     name: "桜井一",
     image: "sakurai-hajime.jpg"
   }, {
-    id: "",
+    id: "ishikara-ryoga",
     name: "石川凌雅",
     image: "ishikara-ryoga.jpg"
   }, {
-    id: "",
+    id: "kyoten-waku",
     name: "京典和玖",
     image: "kyoten-waku.jpg"
   }, {
-    id: "",
+    id: "kihara-rui",
     name: "木原瑠生",
     image: "kihara-rui.jpg"
   }, {
-    id: "",
+    id: "ogoe-yuki",
     name: "小越勇輝",
     image: "ogoe-yuki.jpg"
   }, {
-    id: "",
+    id: "akashi-riku",
     name: "明石陸",
     image: "akashi-riku.jpg"
   }, {
-    id: "",
+    id: "kunishima-naoki",
     name: "國島直希",
     image: "kunishima-naoki.jpg"
   }, {
